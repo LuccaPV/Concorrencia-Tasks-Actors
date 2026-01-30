@@ -5,5 +5,3 @@
 
 ## Proposta 🎯
 O objetivo deste repositório é conter exemplos de implementação em SwiftUi sobre estudos referente a Concorrencias, Tasks e Actors em Swift em nivel introdutório e didatico. 
-
-## Exemplos 📷
